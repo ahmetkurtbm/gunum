@@ -1,0 +1,9 @@
+{
+  "appId": "com.ahmet.gunum",
+  "appName": "Günüm",
+  "webDir": "dist",
+  "android": { "backgroundColor": "#0b1030" },
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#F2A65A" }
+  }
+}

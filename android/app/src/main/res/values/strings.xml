@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Günüm</string>
+    <string name="title_activity_main">Günüm</string>
+    <string name="package_name">com.ahmet.gunum</string>
+    <string name="custom_url_scheme">com.ahmet.gunum</string>
+</resources>
