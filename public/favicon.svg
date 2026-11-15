@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Günüm">
+  <rect width="512" height="512" rx="112" fill="#ea580c"/>
+  <circle cx="256" cy="256" r="78" fill="#ffffff"/>
+  <g stroke="#ffffff" stroke-width="26" stroke-linecap="round">
+    <path d="M256 88v44M256 380v44M88 256h44M380 256h44"/>
+    <path d="M375 137l-31 31M137 375l31-31M137 137l31 31M375 375l-31-31"/>
+  </g>
+</svg>
